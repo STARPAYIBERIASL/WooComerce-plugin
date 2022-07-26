@@ -1,1 +1,1 @@
-# WooComerce-plugin
+# WooCommerce-plugin
